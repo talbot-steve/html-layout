@@ -1,0 +1,36 @@
+.left {
+  background-color: #4A90E2;
+  height: 100%;
+  width: 33.3%;
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+
+body {
+  background-color: #50E3C2;
+  height: 100%;
+  width: 100%;
+}
+
+.right {
+  background-color: #B8E986;
+  height: 100%;
+  width: 33.3%;
+    position: absolute;
+  right: 0;
+  top: 0;
+}
+
+.holder {
+  height: 25%;
+  width: 33.3%;
+  background-color: #D0021B;
+  color: white;
+  text-align: center;
+  position: fixed;
+  bottom: 0;
+  right: 0;
+  font-size: 25px;
+  font-family: sans-serif;
+}
